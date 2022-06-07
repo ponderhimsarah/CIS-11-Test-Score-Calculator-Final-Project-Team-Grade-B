@@ -19,5 +19,7 @@ To use this program, open or copy/past the contents of the .asm file into an LC-
 ## Authors/Contributors
 
 Sarah Welch
+
 Demitrius De La Corte
+
 Amtul Syeda
