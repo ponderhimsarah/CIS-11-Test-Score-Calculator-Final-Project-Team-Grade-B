@@ -18,8 +18,8 @@ To use this program, open or copy/past the contents of the .asm file into an LC-
 
 ## Authors/Contributors
 
-Sarah Welch
+Sarah Welch (@ponderhimsarah)
 
-Demitrius De La Corte
+Demitrius De La Corte (@Halftrius)
 
-Amtul Syeda
+Amtul Syeda (@hibacodes)
